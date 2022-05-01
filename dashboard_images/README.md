@@ -1,0 +1,1 @@
+Imatges utilitzades pel dashboard
