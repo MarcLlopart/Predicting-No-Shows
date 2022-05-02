@@ -24,7 +24,7 @@ We tested XGBoost, Random Forest and Ada Boost in order to the prior assumption 
 We tested SVM but they were extremly slow and didn't improve our previous metrics.
 
 ### DATA DASHBOARD
-Once we get a working model we decided to show data in an interactive data dashboard. We were interested in doing the dasboard because the buisness instinct says that a visual plot is better than 100 words, and was also new knowledg to us. We decided to plot data distributions for each variable and then we added a model selection so you could see the output file of each model and its statistics as ROC and PR curves and their feature importance to give some buisness insights.
+Once we get a working model we decided to show data in an interactive data dashboard. We were interested in doing the dasboard because the buisness instinct says that a visual plot is better than 100 words, and was also new knowledge to us. We decided to plot data distributions for each variable and then we added a model selection so you could see the output file of each model and its statistics as ROC and PR curves and their feature importance to give some buisness insights.
 
 
 
